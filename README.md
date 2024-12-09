@@ -1,0 +1,2 @@
+# YUFileRead
+用友YonBIP高级版yonbiplogin任意文件读取检测程序
